@@ -1,4 +1,4 @@
-# Project 1: Sleep Health Classification
-- makes use of Kaggle dataset
-- classifies whether a participant has a sleeping disorder: insomnia, sleep apnea or none
-- sorts features in order of importance
+# Project 1: Website Scraping - Gym Capacity
+- Used BeautifulSoup to extract NUS's University Town Gym pax.
+- Every 3 minutes, the code gathers the date, time and pax.
+- Data can be used to plot a bar chart to determine the optimal time to visit the gym (the least crowd) - work in progress.
